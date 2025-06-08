@@ -1,0 +1,4 @@
+pytubefix>=2.2.0
+yt-dlp>=2023.3.4
+moviepy>=1.0.3
+PyQt5>=5.15.0
